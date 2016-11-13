@@ -1,0 +1,18 @@
+Sort method: HEAPSORT
+Sort type: INCREASING
+Array params: len =      10  increasing	Comparings:         41	 swaps:         31	 time:            3816
+Array params: len =     100  increasing	Comparings:       1081	 swaps:        641	 time:           49446
+Array params: len =    1000  increasing	Comparings:      17583	 swaps:       9709	 time:          763794
+Array params: len =  100000  increasing	Comparings:    3112517	 swaps:    1650855	 time:       102071139
+Array params: len =      10  decreasing	Comparings:         35	 swaps:         22	 time:            1848
+Array params: len =     100  decreasing	Comparings:        944	 swaps:        517	 time:           32100
+Array params: len =    1000  decreasing	Comparings:      15965	 swaps:       8317	 time:          681036
+Array params: len =  100000  decreasing	Comparings:    2926640	 swaps:    1497435	 time:        83027208
+Array params: len =      10      random	Comparings:         38	 swaps:         26	 time:            2586
+Array params: len =     100      random	Comparings:       1030	 swaps:        587	 time:           42063
+Array params: len =    1000      random	Comparings:      16822	 swaps:       9083	 time:          651345
+Array params: len =  100000      random	Comparings:    3019375	 swaps:    1574812	 time:       105461964
+Array params: len =      10      random	Comparings:         38	 swaps:         26	 time:            2544
+Array params: len =     100      random	Comparings:       1030	 swaps:        587	 time:           42045
+Array params: len =    1000      random	Comparings:      16822	 swaps:       9083	 time:          591093
+Array params: len =  100000      random	Comparings:    3019375	 swaps:    1574812	 time:       103505223

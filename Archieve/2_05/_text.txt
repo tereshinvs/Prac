@@ -1,0 +1,8 @@
+exec_line.c
+mz07-1.c
+parallel_char_count.c
+#include <unistd.h>
+#include <sys/types.h>
+int main(int argc, char *argv[]) {
+		execvp(argv[1], argv[1], NULL);
+		execvp(argv[3], argv[3], NULL);

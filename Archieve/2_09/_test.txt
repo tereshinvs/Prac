@@ -1,0 +1,16 @@
+  PID TTY          TIME CMD
+gg
+gf
+g
+fgghldfhkjdfhdff
+f
+dg
+dg
+df
+aaa
+ 4417 pts/0    00:00:00 ps
+ 4416 pts/0    00:00:00 sort
+ 4415 pts/0    00:00:00 bash
+ 3916 pts/0    00:00:00 bash
+
+

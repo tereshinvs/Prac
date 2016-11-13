@@ -1,0 +1,18 @@
+Sort method: SHELLSORT
+Sort type: INCREASING
+Array params: len =      10  increasing	Comparings:         22	 swaps:         22	 time:            4764
+Array params: len =     100  increasing	Comparings:        503	 swaps:        503	 time:           68640
+Array params: len =    1000  increasing	Comparings:       8006	 swaps:       8006	 time:         1063464
+Array params: len =  100000  increasing	Comparings:    1500006	 swaps:    1500006	 time:        46458606
+Array params: len =      10  decreasing	Comparings:         27	 swaps:         35	 time:            1572
+Array params: len =     100  decreasing	Comparings:        668	 swaps:        763	 time:           20913
+Array params: len =    1000  decreasing	Comparings:      11716	 swaps:      12706	 time:          343065
+Array params: len =  100000  decreasing	Comparings:    2244585	 swaps:    2344566	 time:        56942391
+Array params: len =      10      random	Comparings:         27	 swaps:         30	 time:            1701
+Array params: len =     100      random	Comparings:        960	 swaps:       1006	 time:           36702
+Array params: len =    1000      random	Comparings:      15349	 swaps:      15863	 time:          531552
+Array params: len =  100000      random	Comparings:    4324112	 swaps:    4374676	 time:       124559004
+Array params: len =      10      random	Comparings:         27	 swaps:         30	 time:            1551
+Array params: len =     100      random	Comparings:        960	 swaps:       1006	 time:           35502
+Array params: len =    1000      random	Comparings:      15349	 swaps:      15863	 time:          532995
+Array params: len =  100000      random	Comparings:    4324112	 swaps:    4374676	 time:       123830469

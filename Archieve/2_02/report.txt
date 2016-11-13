@@ -1,0 +1,124 @@
+***Answer 1:
+man -f (man --whatis)
+
+***Answer 2:
+Лексикографический порядок
+
+***Answer 3:
+zjsdecode 66632 755
+
+***Answer 4:
+ls -l -S
+
+***Answer 5:
+ls /etc -l -S | tail -n 1
+cat < /etc
+
+***Answer 6:
+ls: cannot access /etc/nofile: No such file or directory
+-rw-r--r-- 1 root root 1827 2012-09-12 15:28 /etc/passwd
+
+***Answer 7:
+cat /etc/hosts > /tmp/file3
+cat /etc/passwd >> /tmp/file3
+cat /etc/fstab >> /tmp/file3
+
+***Answer 8:
+4
+
+***Answer 9:
+Потому что новая строка в cat отдаётся только по enter или ctrl+D, а ctrl-C завершает cat
+
+***Answer 10:
+5 и 4. Потому что перевод строки тоже вполне себе символ
+
+***Answer 11:
+/home/tereshinvs
+
+***Answer 12:
+/usr/include
+
+***Answer 13:
+2012-09-25 15:28
+775
+
+***Answer 14:
+chmod 750 newtask1
+drwxr-x---  2 tereshinvs tereshinvs 4096 2012-09-25 15:28 newtask1
+
+***Answer 15:
+6
+
+***Answer 16:
+/etc/cron.d /etc/cron.daily /etc/cron.hourly /etc/cron.monthly /etc/crontab /etc/cron.weekly
+
+***Answer 17:
+s0210????
+
+***Answer 18:
+total 8
+-rw-r--r-- 1 tereshinvs tereshinvs  233 2012-09-25 15:37 hosts
+-rw-r--r-- 1 tereshinvs tereshinvs 1827 2012-09-25 15:36 passwd
+
+***Answer 19:
+total 8
+-rw-r--r-- 1 tereshinvs tereshinvs  233 2012-09-25 15:37 hosts2
+-rw-r--r-- 1 tereshinvs tereshinvs 1827 2012-09-25 15:36 passwd
+
+***Answer 20:
+UID=1000
+USER=tereshinvs
+
+***Answer 21:
+/bin/bash
+
+***Answer 22:
+”/etc:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/include”
+
+***Answer 23:
+/usr/bin
+
+***Answer 24:
+aplusb.c:2:5: error: function declaration isn’t a prototype [-Werror=strict-prototypes]
+aplusb.c: In function ‘main’:
+aplusb.c:2:5: error: old-style function definition [-Werror=old-style-definition]
+aplusb.c:5:1: error: stray ‘\342’ in program
+aplusb.c:5:1: error: stray ‘\200’ in program
+aplusb.c:5:1: error: stray ‘\234’ in program
+aplusb.c:5:10: error: expected expression before ‘%’ token
+aplusb.c:5:10: error: stray ‘\342’ in program
+aplusb.c:5:10: error: stray ‘\200’ in program
+aplusb.c:5:10: error: stray ‘\235’ in program
+aplusb.c:6:1: error: stray ‘\342’ in program
+aplusb.c:6:1: error: stray ‘\200’ in program
+aplusb.c:6:1: error: stray ‘\234’ in program
+aplusb.c:6:11: error: expected expression before ‘%’ token
+aplusb.c:6:11: error: stray ‘\’ in program
+aplusb.c:6:11: error: stray ‘\342’ in program
+aplusb.c:6:11: error: stray ‘\200’ in program
+aplusb.c:6:11: error: stray ‘\235’ in program
+aplusb.c:4:8: error: unused variable ‘b’ [-Werror=unused-variable]
+aplusb.c:4:5: error: unused variable ‘a’ [-Werror=unused-variable]
+cc1: all warnings being treated as errors
+
+***Answer 25:
+#include <stdio.h>
+int main(void)
+{
+	int a, b;
+	if (scanf("%d%d", &a, &b) == 2)
+		printf("%d\n", a + b);
+	return 0;
+}
+
+-rwxrwxr-x 1 tereshinvs tereshinvs 8444 2012-09-25 15:48 aplusb
+
+***Answer 26:
+9444
+
+***Answer 27:
+./aplusb < 001.dat > 001.res
+
+***Answer 28:
+11271
+

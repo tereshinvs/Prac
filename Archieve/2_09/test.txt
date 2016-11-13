@@ -1,0 +1,24 @@
+  PID TTY          TIME CMD
+gg
+gf
+g
+fgghldfhkjdfhdff
+f
+dg
+dg
+df
+aaa
+ 6411 pts/0    00:00:00 sort
+ 6410 pts/0    00:00:00 ps
+ 6409 pts/0    00:00:00 mz07-1_2
+ 4810 pts/0    00:00:00 sort
+ 4799 pts/0    00:00:00 sort
+ 4755 pts/0    00:00:00 sort
+ 4740 pts/0    00:00:00 sort
+ 4731 pts/0    00:00:00 sort
+ 4713 pts/0    00:00:00 sort
+ 4687 pts/0    00:00:00 sort
+ 4679 pts/0    00:00:00 sort
+ 3916 pts/0    00:00:00 bash
+
+
